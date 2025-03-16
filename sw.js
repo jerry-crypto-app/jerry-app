@@ -8,8 +8,8 @@ self.addEventListener("push", (event) => {
   console.log("[sw.js] - Push received", data);
 
   const title = `${data.symbol}/${data.timeframe} - ${data.last_signal}`;
-  const body = `TP: ${data.takeProfit} / SL: ${data.stopLoss}`;
-  const deepLink = `/details?cryptopair=${data.symbol}&market=${data.market}&timeframe=${data.timeframe}`;
+  const body = `TP: ${data.take_profit} / SL: ${data.stop_loss}`;
+  const deepLink = `https://jerry-crypto-app.github.io/jerry-app/#/details?cryptopair=${data.symbol}&market=${data.market}&timeframe=${data.timeframe}`;
   const icon = data.icon;
 
   // Show notification
