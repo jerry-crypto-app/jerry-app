@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jerry-app/static/css/main.0831734c.css",
-    "main.js": "/jerry-app/static/js/main.74d3e906.js",
+    "main.css": "/jerry-app/static/css/main.640a4ccd.css",
+    "main.js": "/jerry-app/static/js/main.8a4608e4.js",
     "index.html": "/jerry-app/index.html",
-    "main.0831734c.css.map": "/jerry-app/static/css/main.0831734c.css.map",
-    "main.74d3e906.js.map": "/jerry-app/static/js/main.74d3e906.js.map"
+    "main.640a4ccd.css.map": "/jerry-app/static/css/main.640a4ccd.css.map",
+    "main.8a4608e4.js.map": "/jerry-app/static/js/main.8a4608e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0831734c.css",
-    "static/js/main.74d3e906.js"
+    "static/css/main.640a4ccd.css",
+    "static/js/main.8a4608e4.js"
   ]
 }
