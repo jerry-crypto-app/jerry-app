@@ -1,0 +1,23 @@
+{
+    "free": {
+        "price": "$0",
+        "timeframes": [ "1h", "4h" ],
+        "maxTrackedCryptos": 3,
+        "refreshInternvalSec": 300,
+        "maxNotifications": 0
+    },
+    "pro": {
+        "price": "$9.99/mo",
+        "timeframes": ["1m", "5m", "1h", "4h"],
+        "maxTrackedCryptos": 10,
+        "refreshInternvalSec": 60,
+        "maxNotifications": 5
+    },
+    "elite": {
+        "price": "$14.99/mo",
+        "timeframes": ["1m", "5m", "15m", "1h", "4h", "1d"],
+        "maxTrackedCryptos": 100,
+        "refreshInternvalSec": 30,
+        "maxNotifications": 10
+    }
+}
