@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/jerry-app/static/css/main.274672f6.css",
-    "main.js": "/jerry-app/static/js/main.3aebb2d1.js",
-    "index.html": "/jerry-app/index.html",
-    "main.274672f6.css.map": "/jerry-app/static/css/main.274672f6.css.map",
-    "main.3aebb2d1.js.map": "/jerry-app/static/js/main.3aebb2d1.js.map"
+    "main.css": "./static/css/main.61105ba3.css",
+    "main.js": "./static/js/main.dedf80a0.js",
+    "static/js/842.79009849.chunk.js": "./static/js/842.79009849.chunk.js",
+    "static/js/551.235664b6.chunk.js": "./static/js/551.235664b6.chunk.js",
+    "index.html": "./index.html",
+    "main.61105ba3.css.map": "./static/css/main.61105ba3.css.map",
+    "main.dedf80a0.js.map": "./static/js/main.dedf80a0.js.map",
+    "842.79009849.chunk.js.map": "./static/js/842.79009849.chunk.js.map",
+    "551.235664b6.chunk.js.map": "./static/js/551.235664b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.274672f6.css",
-    "static/js/main.3aebb2d1.js"
+    "static/css/main.61105ba3.css",
+    "static/js/main.dedf80a0.js"
   ]
 }
